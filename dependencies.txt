@@ -1,0 +1,40 @@
+# 🌌 Shell Transcendant - Dépendances
+# Outils système pour Shell Transcendant (syntaxe naturelle)
+
+## Core Shell Transcendant
+bash>=4.0          # Shell Transcendant engine
+grep               # Pattern transcendant matching
+awk                # Data transcendant processing  
+sed                # Stream transcendant editing
+base64             # Security transcendant obfuscation
+
+## System Transcendant Operations
+top                # CPU transcendant monitoring
+free               # Memory transcendant analysis
+ps                 # Process transcendant status
+sync               # Cache transcendant optimization
+
+## Installation Transcendante:
+
+### Ubuntu/Debian Transcendant:
+# sudo apt install -y bash grep gawk sed coreutils procps
+
+### CentOS/RHEL Transcendant:  
+# sudo yum install -y bash grep gawk sed coreutils procps
+
+### macOS Transcendant:
+# brew install bash grep gawk gnu-sed coreutils
+
+## Validation Transcendante:
+# ./shell_transcendant.sh 'system.dependencies().validate().report()'
+
+## Notes Transcendantes:
+# - Shell Transcendant utilise outils natifs optimisés
+# - Performance native préservée vs frameworks lourds
+# - Sécurité transcendante intégrée automatiquement
+# - Compatible tous environnements Unix/Linux/macOS/WSL
+
+## Usage Transcendant Immédiat:
+# curl -o shell_transcendant.sh https://raw.githubusercontent.com/anzize/shell-transcendant-community/main/shell_transcendant.sh
+# chmod +x shell_transcendant.sh
+# ./shell_transcendant.sh 'files("*.log").filter("ERROR").count().alert_if(>5)'
